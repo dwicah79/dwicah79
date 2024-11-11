@@ -1,6 +1,6 @@
 ## Hi I'm Dwi Cahyo Nugroho <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I am a student and freelancer specializing in web and mobile app development. In web development, I am proficient in **HTML**, **CSS**, **SCSS**, **Tailwind CSS**, **JavaScript**, and **PHP**, with experience in using the **Laravel** framework to build robust and efficient applications. In addition to using **Laravel** for the backend, I also utilize the Alpine.js framework to facilitate frontend design development. I also develop Android applications using Kotlin and Jetpack Compose, which results in an intuitive and modern user experience. I am always enthusiastic about learning new technologies and am ready to take on challenges to continuously improve my skills.
+I am a student and freelancer specializing in web and mobile app development. In web development, I am proficient in **HTML**, **CSS**, **SCSS**, **Tailwind CSS**, **JavaScript**, and **PHP**, with experience in using the **Laravel** framework to build robust and efficient applications. In addition to using **Laravel** for the backend, I also utilize the Alpine.js library to facilitate frontend design development. I also develop Android applications using Kotlin and Jetpack Compose, which results in an intuitive and modern user experience. I am always enthusiastic about learning new technologies and am ready to take on challenges to continuously improve my skills.
 
 :mailbox: Reach me out!
 
