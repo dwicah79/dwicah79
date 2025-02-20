@@ -12,7 +12,7 @@ I am a lifelong learner, constantly exploring new technologies and frameworks to
 
 [![Linkedin Badge](https://img.shields.io/badge/-Dwi_Cahyo_Nugroho-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dwicahyonugroho30/) [![Mail Badge](https://img.shields.io/badge/-@dwwll_-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/dwwll_/) [![Mail Badge](https://img.shields.io/badge/-dwicahyonugroho782@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:dwicahyonugroho782@gmail.com)
 
-- 🔭 I’m currently studying Informatics at Universitas Ahmad Dahlan.
+- 🔭 I’m currently studying Informatics at Ahmad Dahlan University.
 - :desktop_computer: Most used line of code `git commit -m "Initial Commit"`
 - 📫 How to reach me: dwicahyonugroho782@gmail.com.
 - ⚡ Fun fact: I love web design and mobile-first development.
