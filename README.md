@@ -3,13 +3,13 @@
 </h1>
 
 <div align="center">
+  <!-- Social Badges -->
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/dwicahyonugroho30/)
   [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/dwwll_/)
   [![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:dwicahyonugroho782@gmail.com)
   [![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=4285F4)](https://devwithdwi.online/)
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/dwicah79)
 </div>
-
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=dwicah79&label=Profile%20Views&color=6F42C1&style=flat" alt="dwicah79" /> 
