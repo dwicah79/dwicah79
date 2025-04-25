@@ -2,10 +2,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=6F42C1&center=true&vCenter=true&width=460&lines=Hi+%F0%9F%91%8B%2C+I'm+Dwi+Cahyo+Nugroho;Full-Stack+Web+Developer;Laravel+%7C+React+%7C+Vue+Expert;UI%2FUX+Enthusiast" alt="Typing SVG" />
 </h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dwicahyonugroho30/)
+<div align="center">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dwicahyonugroho30/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dwwll_/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dwicahyonugroho782@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://devwithdwi.online/)
+</div>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=dwicah79&label=Profile%20Views&color=6F42C1&style=flat" alt="dwicah79" /> 
