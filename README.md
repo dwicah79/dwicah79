@@ -15,9 +15,11 @@
 </div>
 
 ---
+
 <div align="center">
 ## 🖥️ Frontend Developer at BSI UAD
 </div>
+
 ---
 
 ## ⚙️ Tech Stack
