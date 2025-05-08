@@ -15,6 +15,10 @@
 </div>
 
 ---
+<div align="center">
+## 🖥️ Frontend Developer at BSI UAD
+</div>
+---
 
 ## ⚙️ Tech Stack
 
@@ -38,12 +42,6 @@
 ### Tools
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-## 🖥️ Frontend Developer at BSI UAD
-
----
 
 ## 📊 GitHub Stats
 
