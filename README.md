@@ -38,14 +38,10 @@
 ### Tools
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
 
-## 🚀 Currently Working On
-- 🧩 Micro-frontend architecture with Vue 3 + TypeScript
-- 🧠 Clean architecture with Laravel + Service Layer & DDD
-- ⚡ Core Web Vitals & performance optimization
+## 🖥️ Frontend Developer at BSI UAD
 
 ---
 
