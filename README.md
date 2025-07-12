@@ -17,7 +17,7 @@
 ---
 
 <div align="center">
-## 🖥️ Frontend Developer at BSI UAD
+🖥️ Programmer at JMC Indonesia
 </div>
 
 ---
