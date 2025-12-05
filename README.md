@@ -17,7 +17,7 @@
 ---
 
 <div align="center">
-🖥️ Fullstack Developer at AWBS Media
+🖥️ Fullstack Developer
 </div>
 
 ---
