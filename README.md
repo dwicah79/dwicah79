@@ -17,7 +17,7 @@
 ---
 
 <div align="center">
-🖥️ Programmer at JMC Indonesia
+🖥️ Fullstack Developer at AWBS Media
 </div>
 
 ---
