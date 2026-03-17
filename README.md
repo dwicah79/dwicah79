@@ -37,9 +37,10 @@ Fullstack Developer • Laravel • React • Vue
 # 🚀 About Me
 
 💻 Fullstack Developer passionate about building scalable and user-friendly web applications.
+
 ⚡ Experienced in building:
-- Company Profile Websites
 - CMS Dashboards
+- Information System
 - API Development
 - Fullstack Web Applications
 ---
@@ -54,6 +55,7 @@ Fullstack Developer • Laravel • React • Vue
 ### Frontend
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 
@@ -66,6 +68,9 @@ Fullstack Developer • Laravel • React • Vue
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Eloquent ORM](https://img.shields.io/badge/Eloquent-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Prisma ORM](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
 
 ### Tools
 
