@@ -1,71 +1,115 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=6F42C1&center=true&vCenter=true&width=460&lines=Hi+%F0%9F%91%8B%2C+I'm+Dwi+Cahyo+Nugroho;TechStack?;Laravel+%7C+React+%7C+Vue;" alt="Typing SVG" />
+Hi 👋 I'm Dwi Cahyo Nugroho
 </h1>
 
-<div align="center">
+<h3 align="center">
+Fullstack Developer • Laravel • React • Vue
+</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dwicahyonugroho30/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dwwll_/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dwicahyonugroho782@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://devwithdwi.online/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dwicah79)
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6F42C1&center=true&vCenter=true&width=450&lines=Fullstack+Developer;Laravel+%7C+React+%7C+Vue;Building+Scalable+Web+Apps;Always+Learning+New+Tech" />
+</p>
 
-<br />
-<img src="https://komarev.com/ghpvc/?username=dwicah79&label=Profile+Views&color=6F42C1&style=flat" alt="profile views" />
-</div>
+<p align="center">
+<a href="https://www.linkedin.com/in/dwicahyonugroho30/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/dwwll_/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="mailto:dwicahyonugroho782@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://devwithdwi.online/">
+<img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+<a href="https://github.com/dwicah79">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=dwicah79&label=Profile+Views&color=6F42C1&style=flat" />
+</p>
 
 ---
 
-<div align="center">
-🖥️ Fullstack Developer
-</div>
+# 🚀 About Me
 
+💻 Fullstack Developer passionate about building scalable and user-friendly web applications.
+⚡ Experienced in building:
+- Company Profile Websites
+- CMS Dashboards
+- API Development
+- Fullstack Web Applications
 ---
 
-## ⚙️ Tech Stack
+# ⚡ Tech Stack
 
-<div align="center">
-  
+### Backend
+
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+
+### Frontend
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+
+### Styling
+
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Database
+
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-</div>
-
 ### Tools
+
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## 📊 GitHub Stats
+---
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dwicah79&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6F42C1&icon_color=6F42C1" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwicah79&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6F42C1" />
-</div>
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dwicah79&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6F42C1&icon_color=6F42C1"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwicah79&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6F42C1"/>
+
+</p>
 
 ---
 
-## 🔥 Streaks & Achievements
+# 🔥 GitHub Streak
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=dwicah79&theme=radical&hide_border=true&background=0D1117&ring=6F42C1&fire=6F42C1&currStreakNum=FFFFFF" />
-  <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=dwicah79&theme=radical&no-bg=true&no-frame=true&title=Stars,Commit,Repositories,Followers&margin-w=10&margin-h=10&row=1&column=4" />
-</div>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=dwicah79&theme=radical&hide_border=true&background=0D1117&ring=6F42C1&fire=6F42C1"/>
+</p>
 
 ---
 
-## 💬 Dev Quote
+# 🏆 Achievements
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
-</div>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=dwicah79&theme=radical&no-bg=true&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+# 💡 Dev Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
+
+---
+
+<p align="center">
+✨ “Code. Build. Improve. Repeat.” ✨
+</p>
