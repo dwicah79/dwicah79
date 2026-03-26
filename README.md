@@ -99,22 +99,6 @@ Fullstack Developer • Laravel • React • Vue
 
 ---
 
-# 🏆 Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dwicah79&theme=radical&no-bg=true&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-# 💡 Dev Quote
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
-
----
-
 <p align="center">
 ✨ “Code. Build. Improve. Repeat.” ✨
 </p>
